@@ -1,3 +1,3 @@
 # wBot
 A whatsapp Bot 
-created usin twilo and python 3.7
+created using twilo and python 3.7
